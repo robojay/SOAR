@@ -1,4 +1,6 @@
-                    GNU GENERAL PUBLIC LICENSE
+**Software, firmware, and documents are licensed under GNU GPL Version 3 below:**
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -672,3 +674,19 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+
+**Hardware is licensed under CERN-OHL-S v2 with details below:**
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2
+
+You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source location: https://github.com/robojay/SOAR
+
+As per CERN-OHL-S v2 section 4, should You produce hardware based on this
+source, You must provide the Source Location visible in the silkscreen on the back side of the printed circuit board.
