@@ -1,4 +1,4 @@
-**Software, firmware, and documents are licensed under GNU GPL Version 3 below:**
+**Software, firmware, and documents are licensed under GNU GPL Version 3**
 
                       GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
@@ -676,7 +676,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-**Hardware is licensed under CERN-OHL-S v2 with details below:**
+**Hardware is licensed under CERN-OHL-S v2 with details below**
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2
 
